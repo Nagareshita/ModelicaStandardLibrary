@@ -1,3 +1,6 @@
+#追加
+.vscode
+
 # exclude following files
 *~
 *.bak
